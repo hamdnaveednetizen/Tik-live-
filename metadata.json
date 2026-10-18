@@ -1,0 +1,6 @@
+{
+  "name": "TikTok",
+  "description": "Short-form video app with vertical feed, interactive likes, comments drawer, music disc animations, sound tracks, creator profiles, and video creation studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
